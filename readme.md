@@ -57,7 +57,7 @@ git clone https://github.com/Vicky9890/Iris_Classification_Model_using_ML.git
 
 2. Navigate to the project directory:
 ```bash
-cd Iris Classification
+cd Iris_Classification_Model_using_ML
 ```
 
 3. Run the Classification model:
@@ -71,7 +71,7 @@ The classification model is constructed using a Sequential neural network from K
 
 - **Input Layer:** Dense layer with input dimension matching the number of features (4 in this model).
 
-- **Hidden Layers:** Dense layers with ReLU activation functions.
+- **Hidden Layers:** Dense layers with relu activation functions.
 
 - **Output Layer:** Dense layer with softmax activation function for multi-class classification.
 
